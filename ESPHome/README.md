@@ -6,7 +6,6 @@
 
 **Управление и контроль устройствами Bolid (Орион) через MQTT с помощью ESP32 и ESPHome.**
 
-![Orion2Mqtt](images/orion2mqtt.png)
 
 ## 🚀 Что изменилось?
 
