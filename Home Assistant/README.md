@@ -1,4 +1,4 @@
-# Orion2Mqtt - Мост между RS485 и MQTT для ESP8266
+# Orion2Mqtt - Мост между RS485 и MQTT для ESP32
 Управление и контроль устройствами Bolid через MQTT с помощью Orion2Mqtt, подключенными к RS485
 
 ![Orion2Mqtt](/images/orion2mqtt.png)
